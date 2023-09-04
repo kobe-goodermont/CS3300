@@ -1,0 +1,2 @@
+teamName = "CLGM"
+print(teamName)
