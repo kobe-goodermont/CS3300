@@ -1,0 +1,28 @@
+Django Workflow:
+Setup environment, then create and define the models, next create the respective view this handles the logic and HTTP requests and respones
+then update the URL routing, and test with the admin page.
+
+Web accessibility:
+https://www.w3.org/WAI/fundamentals/accessibility-intro/
+https://blog.hubspot.com/website/web-accessibility
+
+Links to Bootstrap Documentation:
+https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/
+https://www.w3schools.com/html/html_responsive.asp
+
+CSS:
+https://www.w3schools.com/css/css3_borders.asp 
+https://www.w3schools.com/css/css3_backgrounds.asp
+https://www.w3schools.com/css/css3_buttons.asp
+https://www.w3schools.com/css/css_dropdowns.asp
+https://www.w3schools.com/css/css_navbar.asp
+https://www.scaler.com/topics/container-tags-in-html/
+
+Django CRUD, homepage, Generic Lists:
+https://adobe-consulting-services.github.io/acs-aem-commons/features/generic-lists/index.html
+https://medium.com/front-end-weekly/what-is-a-view-in-web-application-6a2836eed4eb
+https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/
+https://stackoverflow.com/questions/60111082/django-passing-data-to-html
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page
+https://realpython.com/lessons/django-shell/
+https://docs.djangoproject.com/en/4.2/ref/django-admin/
